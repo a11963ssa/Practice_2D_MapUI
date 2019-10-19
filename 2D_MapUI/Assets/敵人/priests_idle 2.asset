@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: priests_idle 2
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: c3ca2c82bdb1fbc49972f4ed39b9c673, type: 3}
+  - {fileID: 21300000, guid: dbc645bfc4e1b514893158f8c0ba8088, type: 3}
+  - {fileID: 21300000, guid: ce764499bf98a974888eb0624ae3c9bd, type: 3}
+  - {fileID: 21300000, guid: 923e8af85d1575f4aab5f1d60054e768, type: 3}
+  m_MinSpeed: 3
+  m_MaxSpeed: 3
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0
